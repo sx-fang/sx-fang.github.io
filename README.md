@@ -1,5 +1,3 @@
-# Shuixin Fang
-
 ## Contact Information
 - Email: [sxfang@amss.ac.cn](mailto:sxfang@amss.ac.cn)  
 
