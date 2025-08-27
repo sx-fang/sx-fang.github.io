@@ -4,15 +4,14 @@
 - Email: [sxfang@amss.ac.cn](mailto:sxfang@amss.ac.cn)  
 
 ## Education
-- Ph.D., Probability and Mathematical Statistics, Shandong University, China, 2020.09 - 2023.12  
-- M.S., Probability and Mathematical Statistics, Shandong University, China, 2018.09 - 2020.08  
+- Ph.D., Probability and Mathematical Statistics, Shandong University, China, 2018.09 - 2023.12  
 - B.S., Engineering Mechanics, Shandong University, China, 2013.09 - 2017.06  
 
 ## Employment History
 - 2024.03 - Now: Post-doc, Institute of Computational Mathematics and Scientific/Engineering Computing, Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences  
 
 ## Publications
-1. **Shuixin Fang**, Weidong Zhao, Tao Zhou. Explicit Runge-Kutta schemes for backward stochastic differential equations. Preprint, 2025.  
+1. **Shuixin Fang**, Weidong Zhao, Tao Zhou. [Explicit Runge-Kutta schemes for backward stochastic differential equations.](https://arxiv.org/abs/2508.18707) *arXiv:2508.18707*, 2025.  
 2. Wei Cai, **Shuixin Fang**, Tao Zhou. [Deep random difference method for high-dimensional quasi-linear partial differential equations.](https://arxiv.org/pdf/2506.20308) *arXiv:2506.20308*, 2025. (**Joint first author**)   
 3. Wei Cai, **Shuixin Fang**, Wenzhong Zhang, Tao Zhou. [Martingale deep learning for very high dimensional quasi-linear partial differential equations and stochastic optimal controls.](https://arxiv.org/pdf/2408.14395) *arXiv:2408.14395*, 2024. (**Joint first author**)  
 4. Wei Cai, **Shuixin Fang**, Tao Zhou. [SOC-MartNet: a martingale neural network for the Hamilton-Jacobi-Bellman equation without explicit $\inf_u H$ in stochastic optimal controls.](https://epubs.siam.org/doi/10.1137/24M1681033) *SIAM J. Sci. Comput.* 47(4), C795–C819, 2025. (**Joint first author**)  
